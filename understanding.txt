@@ -1,0 +1,5 @@
+HTML
+CSS
+.form-control input:focus -> when the following input is in focus
+JS->
+	
